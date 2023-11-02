@@ -25,5 +25,5 @@ Created a new folder locally without adding to git.
         -> Create an empty repository in github from the website.<br/>
         -> Copy the HTTPS or SSH(if you have created it.) link.<br/>
         -> git remote add origin master [This creates a local remote connection with the local machine repo to the github repo on the master ]
+        <br/>
         -> git push origin master [This adds it to the repo].
-        
