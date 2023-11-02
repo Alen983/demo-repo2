@@ -2,6 +2,7 @@
 
 Created a new folder locally without adding to git.
 1. Initialization 
+<br/>
     -> git init
 
 2. Check for status of files/file
@@ -24,3 +25,4 @@ Created a new folder locally without adding to git.
     -> Since the repository is not cloned from a git repository then 
         -> Create an empty repository in github from the website.
         -> Copy the HTTPS or SSH(if you have created it.) link.
+        -> 
