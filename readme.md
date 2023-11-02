@@ -23,3 +23,4 @@ Created a new folder locally without adding to git.
 6. Make it LIVE
     -> Since the repository is not cloned from a git repository then 
         -> Create an empty repository in github from the website.
+        -> Copy the HTTPS or SSH(if you have created it.) link.
