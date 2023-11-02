@@ -1,4 +1,4 @@
-## New Folder Local
+## GIT
 
 Created a new folder locally without adding to git.
 1. Initialization<br/>
@@ -26,4 +26,5 @@ Created a new folder locally without adding to git.
         -> Copy the HTTPS or SSH(if you have created it.) link.<br/>
         -> git remote add origin master [This creates a local remote connection with the local machine repo to the github repo on the master ]
         <br/>
+        ->{optional} if you don't want to type the entire <ul>origin master</ul> then use git remote add -u origin master<br/> 
         -> git push origin master [This adds it to the repo].
