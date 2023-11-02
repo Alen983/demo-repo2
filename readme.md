@@ -32,3 +32,21 @@ Created a new folder locally without adding to git.
         <br/>
         ->{optional} if you don't want to type the entire <u>origin master</u> then use git remote add -u origin master<br/> 
         -> git push origin master [This adds it to the repo].
+
+<hr>
+
+## Branching
+ 
+0. To know which branch your are on and the number of branches use <br/>
+->git branch<br/>
+[This will show the different branches and then with an asterisk symbol (*) shows which branch we are currently on]<br/>
+
+1. To Create new branch <br/>
+-> To create a new branch we use<br/>
+-> git checkout -b [branch name]<br/>
+-> eg: git checkout -b feature-1-readme <br/>
+
+2. Switch between branches<br/>
+-> git checkout<br/>
+
+
