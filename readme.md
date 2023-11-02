@@ -1,5 +1,9 @@
 ## GIT
 
+0.To get a folder from github on your local machine<br/>
+-> Go to the terminal within vscode<br/>
+-> use git clone {HTTPS or SSH link}
+
 Created a new folder locally without adding to git.
 1. Initialization<br/>
     -> git init
@@ -26,5 +30,5 @@ Created a new folder locally without adding to git.
         -> Copy the HTTPS or SSH(if you have created it.) link.<br/>
         -> git remote add origin master [This creates a local remote connection with the local machine repo to the github repo on the master ]
         <br/>
-        ->{optional} if you don't want to type the entire <u>origin master</u> then use git remote add -u origin master<br/g> 
+        ->{optional} if you don't want to type the entire <u>origin master</u> then use git remote add -u origin master<br/> 
         -> git push origin master [This adds it to the repo].
