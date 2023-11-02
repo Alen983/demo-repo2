@@ -1,8 +1,7 @@
 ## New Folder Local
 
 Created a new folder locally without adding to git.
-1. Initialization 
-<br/>
+1. Initialization<br/>
     -> git init
 
 2. Check for status of files/file
