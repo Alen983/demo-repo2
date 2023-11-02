@@ -48,5 +48,17 @@ Created a new folder locally without adding to git.
 
 2. Switch between branches<br/>
 -> git checkout<br/>
+-> or git checkout {name of branch}<br/>
+
+3. To see the differences between the two branches<br/>
+-> go to the main branch[step 2] then<br/>
+git diff [branch name]
+
+4. To push the branch use<br/>
+-> git push <br/>
+-> it will provide a syntax use -u instead of upstream<br/>
+-> so code is<br/>
+ git push -u origin feature-1-readme <br/>
+
 
 
