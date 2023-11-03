@@ -60,5 +60,8 @@ git diff [branch name]
 -> so code is<br/>
  git push -u origin feature-1-readme <br/>
 
+5. Create a pull request . Go to Github to create a pull request and merge them
+
+
 
 
