@@ -62,6 +62,36 @@ git diff [branch name]
 
 5. Create a pull request . Go to Github to create a pull request and merge them
 
+<hr>
+## Reset
+
+0. To reset a git action performed use the<br/>
+-> git reset [filename]
+
+1.To undo a commit<br/>
+-> git reset HEAD~1<br/>
+-> In the above case it goes back 1 step behind the commit action performed<br/>
+-> "HEAD" is a pointer to the last commit.
+
+2. To undo a specific commit<br/>
+-> git log<br/>
+-> This shows all the commits in all chronological order.<br/>
+-> so from there goto the hash of the commit and copy<br/>
+-> git reset [hash function eg(6218316236sgddg.....)]<br/>
+
+3. To Completely remove the commits performed<br/>
+-> git reset --hard [hash function eg(6218316236sgddg.....)]<br/>
+-> in this case head points to a different commit.<br/> 
+
+<hr>
+
+## Forking.
+
+0. To make a pr to a repo or just branch off the code<br/>
+go to the repo you wish to fork<br/>
+click the fork and select your account<br/>
+so if you wish to add changes then create a pull request 
+
 
 
 
