@@ -63,6 +63,7 @@ git diff [branch name]
 5. Create a pull request . Go to Github to create a pull request and merge them
 
 <hr>
+
 ## Reset
 
 0. To reset a git action performed use the<br/>
